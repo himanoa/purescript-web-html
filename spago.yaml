@@ -1,0 +1,23 @@
+package:
+  dependencies:
+    - console
+    - effect
+    - enums
+    - foreign
+    - functions
+    - js-date
+    - maybe
+    - media-types
+    - newtype
+    - nullable
+    - prelude
+    - unsafe-coerce
+    - web-dom
+    - web-events
+    - web-file
+    - web-storage
+  name: web-html
+workspace:
+  extraPackages: {}
+  packageSet:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.15-20241215/packages.json
